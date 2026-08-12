@@ -6,7 +6,7 @@ The project demonstrates the core concepts of managing data dynamically in the b
 
 ## 📸 Preview
 
-![CRUD Management App Preview](./assets/preview.png)
+![CRUD Management App Preview](./preview.png)
 
 ##  Features
 
