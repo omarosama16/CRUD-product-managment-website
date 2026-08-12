@@ -1,4 +1,4 @@
-# CRUD Management App
+# CRUD Product Management App
 
 A simple and responsive **CRUD (Create, Read, Update, Delete) Management System** built using **HTML, CSS, and JavaScript**.
 
